@@ -13,7 +13,7 @@
 ## 🛠 Skills
  - Javascript | ES6
  - HTML | CSS | BootStrap | Material UI 
- - ReactJS | Redux | Redu toolkit
+ - ReactJS | Redux | Redux toolkit
 
   
 ## 🔗 Links
