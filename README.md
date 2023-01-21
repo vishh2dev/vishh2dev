@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
    - I completed BTech in computer science
-   - Skilled with ReactJs,Javascript and redux 
+   - Skilled with ReactJs,Javascript,Redux,Nodejs, 
    - Yearning to become one of the best developer
 
 
