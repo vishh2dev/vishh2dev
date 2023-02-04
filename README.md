@@ -4,16 +4,16 @@
   
 ## 🚀 About Me
 
-   - I completed BTech in computer science
-   - Skilled with ReactJs,Javascript,Redux,Nodejs, 
+   - Completed BTech in computer science
+   - Skilled with ReactJs,Javascript,Redux,Nodejs,Express,Mongodb,mongoose
    - Yearning to become one of the best developer
 
 
   
 ## 🛠 Skills
- - Javascript | ES6
- - HTML | CSS | BootStrap | Material UI 
- - ReactJS | Redux | Redux toolkit
+ - Javascript | ES6 | Typescript
+ - HTML | CSS | BootStrap | Material UI | SCSS
+ - ReactJS | Redux | Redux toolkit | Vuejs
 
   
 ## 🔗 Links
