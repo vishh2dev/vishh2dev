@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
    - Completed BTech in computer science
-   - Skilled with ReactJs,Javascript,Redux,Nodejs,Express,Mongodb,mongoose
+   - Skilled with ReactJs,Javascript,Typescript,Redux,Nodejs,Express,Mongodb,mongoose
    - Yearning to become one of the best developer
 
 
