@@ -11,9 +11,9 @@
 
   
 ## 🛠 Skills
- - Javascript | ES6 | Typescript
- - HTML | CSS | BootStrap | Material UI | SCSS
- - ReactJS | Redux | Redux toolkit | Vuejs
+ - Javascript | ES6 | Typescript | Python
+ - HTML | CSS | BootStrap | Material UI | SCSS | TailWind
+ - ReactJS | Redux | Redux toolkit | Vuejs | Nextjs
 
   
 ## 🔗 Links
